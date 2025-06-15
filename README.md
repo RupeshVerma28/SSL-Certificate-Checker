@@ -92,26 +92,35 @@ SSL-Certificate-Checker/
     └── screenshot.png         # GUI preview (optional)
 ```
 
-##🖼️ Screenshot
+---
+
+## 🖼️ Screenshot
+
 ![image](https://github.com/user-attachments/assets/d6823e67-d73f-44fa-b74b-d31423057568)
 
+---
 
-##🚧 Limitations
--Only supports HTTPS websites.
--Requires internet connection.
--Does not validate wildcard certificates in-depth.
+## 🚧 Limitations
 
-##📈 Future Enhancements
- -Batch domain scanning
- -CSV & Excel export options
- -Certificate chain analysis
- -Notifications for expiry alerts
+- Only supports **HTTPS** websites.
+- Requires an **active internet connection**.
+- Does **not validate wildcard certificates in-depth**.
 
-##🙋‍♂️ Author
+---
 
--👨‍💻 Rupesh Verma 
--🎓BCA| Full-stack Developer | Cybersecurity Enthusiast
--📧 errupesh28@gmail.com
--📞 +91-9340909789
--🌐 GitHub – @RupeshVerma28
+## 📈 Future Enhancements
 
+- Batch domain scanning.
+- CSV & Excel export options.
+- Certificate chain analysis.
+- Notifications for expiry alerts.
+
+---
+
+## 🙋‍♂️ Author
+
+- 👨‍💻 **Rupesh Verma**
+- 🎓 *BCA | Full-Stack Developer | Cybersecurity Enthusiast*
+- 📧 **Email:** errupesh28@gmail.com  
+- 📞 **Phone:** +91-9340909789  
+- 🌐 **GitHub:** [@RupeshVerma28](https://github.com/RupeshVerma28)
