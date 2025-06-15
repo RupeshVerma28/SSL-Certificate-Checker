@@ -68,11 +68,11 @@ pip install customtkinter reportlab
 python ssl_checker_tool.py
 ```
 ## 🖥️ Usage Instructions
-1.Launch the GUI.
-2.Enter a domain name (like google.com).
-3.Click “Check SSL Certificate”.
-4.View the results instantly in the app.
-5.Click “Download Report” to export a PDF.
+-Launch the GUI.
+-Enter a domain name (like google.com).
+-Click “Check SSL Certificate”.
+-View the results instantly in the app.
+-Click “Download Report” to export a PDF.
 
 ## 📄 PDF Report Includes
 1.Domain Name
