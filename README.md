@@ -75,12 +75,12 @@ python ssl_checker_tool.py
 -Click “Download Report” to export a PDF.
 
 ## 📄 PDF Report Includes
-1.Domain Name
-2.Expiry Date & Remaining Days
-3.Issuer Organization
-4.Hostname Match Info
-5.Protocol Used (TLS version)
-6.Overall Validity Status ✅/❌
+-Domain Name
+-Expiry Date & Remaining Days
+-Issuer Organization
+-Hostname Match Info
+-Protocol Used (TLS version)
+-Overall Validity Status ✅/❌
 
 ##📂 Folder Structure
 ```graphql
@@ -97,20 +97,21 @@ SSL-Certificate-Checker/
 
 
 ##🚧 Limitations
-1.Only supports HTTPS websites.
-2.Requires internet connection.
-3.Does not validate wildcard certificates in-depth.
+-Only supports HTTPS websites.
+-Requires internet connection.
+-Does not validate wildcard certificates in-depth.
 
 ##📈 Future Enhancements
- 1.Batch domain scanning
- 2.CSV & Excel export options
- 3.Certificate chain analysis
- 4.Notifications for expiry alerts
+ -Batch domain scanning
+ -CSV & Excel export options
+ -Certificate chain analysis
+ -Notifications for expiry alerts
 
 ##🙋‍♂️ Author
-👨‍💻 Rupesh Verma 
-🎓BCA| Full-stack Developer | Cybersecurity Enthusiast
-📧 errupesh28@gmail.com
-📞 +91-9340909789
-🌐 GitHub – @RupeshVerma28
+
+-👨‍💻 Rupesh Verma 
+-🎓BCA| Full-stack Developer | Cybersecurity Enthusiast
+-📧 errupesh28@gmail.com
+-📞 +91-9340909789
+-🌐 GitHub – @RupeshVerma28
 
