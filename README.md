@@ -3,7 +3,7 @@
 A modern Python-based **SSL Certificate Checker** that allows users to verify the security and validity of any website's SSL certificate using a GUI interface. It provides **detailed results** and supports exporting scan reports as professional **PDF documents**.
 
 > ✅ Built using **CustomTkinter** (dark mode GUI) and **ReportLab** for PDF reports  
-> 🔗 GitHub: [RupeshVerma28/SSL-Certificate-Checker](https://github.com/RupeshVerma28)
+> 🔗 GitHub: [RupeshVerma28/SSL-Certificate-Checker](https://github.com/RupeshVerma28/SSL-Certificate-Checker/tree/main)
 
 ---
 
