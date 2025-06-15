@@ -93,8 +93,7 @@ SSL-Certificate-Checker/
 ```
 
 ##🖼️ Screenshot
-```![image](https://github.com/user-attachments/assets/d6823e67-d73f-44fa-b74b-d31423057568)
-```
+![image](https://github.com/user-attachments/assets/d6823e67-d73f-44fa-b74b-d31423057568)
 
 
 ##🚧 Limitations
